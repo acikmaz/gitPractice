@@ -1,7 +1,7 @@
 package tests;
 
 
-public class testFile {
+public class Login {
 
     public static void main(String[] args) {
         System.out.println("ali");
