@@ -6,7 +6,7 @@ public class HappyBirthday {
         System.out.println("RANA");
         System.out.println("BERA");
         
-                System.out.println("seda");
+        System.out.println("seda");
         System.out.println("Ali");
     }
 }
